@@ -1,0 +1,12 @@
+---
+title: "qwerty"
+author: "Adrija Roy"
+date: "5/19/2020"
+output: word_document
+---
+
+
+
+## this is an md file part of assignment
+
+
